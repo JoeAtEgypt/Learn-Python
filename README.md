@@ -7,9 +7,7 @@ Welcome to the **Learn Python** repository! Whether you're new to programming or
 - **Beginner to Advanced Tutorials**: Step-by-step guides that cover Python basics to more advanced topics.
 - **Hands-on Projects**: Real-world examples and mini-projects to apply what you've learned.
 - **Practice Problems**: A collection of exercises to test your understanding and improve your coding skills.
-- **Best Practices**: Tips and tricks for writing clean, efficient, and Pythonic code.
-- **Resource Links**: Curated links to documentation, tutorials, and other learning materials.
-  
+- **Best Practices**: Tips and tricks for writing clean, efficient, and Pythonic code, check out the [Resources](./resources.md) page.  
 ## 🧑‍💻 Contributions
 Contributions are welcome! If you have ideas, improvements, or additional resources to share, feel free to open a pull request or issue.
 
